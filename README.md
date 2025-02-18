@@ -1,39 +1,39 @@
 # Hidrogeno Verde y Sostenibilidad en Andalucia
 ## Índice: 
 ### 1. Introducción a la sostenibilidad en el sector productivo
-**Rocha**: Definición de sostenibilidad y su impacto en la industria.
+**Rocha**: 1.1. Definición de sostenibilidad y su impacto en la industria.
 
-**Miguel**: Importancia de las energías renovables en la transición ecológica.
+**Miguel**: 1.2. Importancia de las energías renovables en la transición ecológica.
 
-**Fernando**: Papel de la Administración de Sistemas Informáticos en Red en la sostenibilidad (eficiencia energética en CPDs, cloud computing, etc.).
+**Fernando**: 1.3. Papel de la Administración de Sistemas Informáticos en Red en la sostenibilidad (eficiencia energética en CPDs, cloud computing, etc.).
 ### 2. Hidrógeno Verde: Concepto y Producción
-**Pablo**: ¿Qué es el hidrógeno verde y en qué se diferencia del gris y azul?
+**Pablo**: 2.1. ¿Qué es el hidrógeno verde y en qué se diferencia del gris y azul?
 
-**Adri**: Producción mediante electrólisis del agua con energías renovables.
+**Adri**: 2.2. Producción mediante electrólisis del agua con energías renovables.
 
-**Marta**: Ventajas: No genera CO₂, almacenable y versátil.
+**Marta**: 2.3. Ventajas: No genera CO₂, almacenable y versátil.
 
-**Antonio**: Inconvenientes: Costes elevados, eficiencia limitada, infraestructura escasa.
+**Antonio**: 2.4. Inconvenientes: Costes elevados, eficiencia limitada, infraestructura escasa.
 ### 3. Aplicación del Hidrógeno Verde en Andalucía
-**Guille**: Potencial de Andalucía: Energía solar y eólica para la producción.
+**Guille**: 3.1. Potencial de Andalucía: Energía solar y eólica para la producción.
 
-**Carmen**: Zonas estratégicas: Cádiz, Huelva, Almería, Jaén y Granada.
+**Carmen**: 3.2. Zonas estratégicas: Cádiz, Huelva, Almería, Jaén y Granada.
 
-**Iván Barranco**: Infraestructura necesaria: Plantas de electrólisis, almacenamiento y transporte.
+**Iván Barranco**: 3.3. Infraestructura necesaria: Plantas de electrólisis, almacenamiento y transporte.
 ### 4. Usos del Hidrógeno Verde en el sector productivo
-**Nacho**: Industria: Siderurgia, refinerías y producción de amoníaco.
+**Nacho**: 4.1. Industria: Siderurgia, refinerías y producción de amoníaco.
 
-**Ezequiel**: Transporte: Vehículos de pila de combustible, trenes y barcos.
+**Ezequiel**: 4.2. Transporte: Vehículos de pila de combustible, trenes y barcos.
 
-**Alejandro**: Viviendas: Calefacción y almacenamiento energético.
+**Alejandro**: 4.3. Viviendas: Calefacción y almacenamiento energético.
 
-**Manolo**: Tecnología y sistemas: Uso en data centers para reducción de huella de carbono.
+**Manolo**: 4.4. Tecnología y sistemas: Uso en data centers para reducción de huella de carbono.
 ### 5. Oportunidades y retos
-**Manolo**: Beneficios: Reducción de emisiones, independencia energética, innovación.
+**Manolo**: 5.1. Beneficios: Reducción de emisiones, independencia energética, innovación.
 
-**Álvaro**: Desafíos: Infraestructura, costes, normativa y aceptación del mercado.
+**Álvaro**: 5.2. Desafíos: Infraestructura, costes, normativa y aceptación del mercado.
 
-**Iván Palma**: Planes en marcha: Corredor del Hidrógeno del Sur, proyectos en Algeciras y Huelva.
+**Iván Palma**: 5.3. Planes en marcha: Corredor del Hidrógeno del Sur, proyectos en Algeciras y Huelva.
 
 ### 6. Conclusión y debate
 ¿Es viable el hidrógeno verde en Andalucía?
